@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Real Chess Timer</string>
+    <string name="ammount_of_time">Ammount of time</string>
+    <string name="increment">Increment</string>
+    <string name="close">Close</string>
+    <string name="save">Save</string>
+</resources>
